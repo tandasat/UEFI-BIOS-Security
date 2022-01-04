@@ -55,7 +55,7 @@ Introduction
 -------------
 UEFI BIOS is capable of executing modules that are built by non-original equipment manufacturer (OEM) entities. This allows, for example, the device owner to build and execute her modules from the USB thumb driver through the UEFI shell. Such modules started to be widely used in hacking communities such as game cheat developers and users due to its low technical hurdle.
 
-[CRZEFI](https://github.com/rasyidabdulhalim/CRZAIMBOT) is one of such modules designed for checking on the online game called Apex Legends.
+[CRZEFI](https://github.com/rasyidabdulhalim/CRZAIMBOT) is one of such modules designed for cheating on the online game called Apex Legends.
 
 Instructions
 -------------
