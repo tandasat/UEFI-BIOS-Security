@@ -34,6 +34,7 @@
 - 興味のあるトピックに集中してもよい
 - 課題はどの順序で取り組んでもよい（ただし課題２のソフトウェアセットアップは課題３，４でも必要）
 - 参照されている書籍を読む必要はない（座学的な要素は講義で扱う）。主に事後学習の参考のため示した
+    - 書籍：[Building Secure Firmware: Armoring the Foundation of the Platform](https://www.oreilly.com/library/view/building-secure-firmware/9781484261064/)
 
 事前要件
 --------
